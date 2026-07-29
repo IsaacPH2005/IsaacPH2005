@@ -17,6 +17,7 @@ Desarrollador Full Stack enfocado en construir sistemas de gestión con **Larave
 - 📱 También en: **EcoHeroes** (Expo / React Native)
 - 🌱 Explorando: minería de criptomonedas y hardware PC
 - 💬 Pregúntame sobre: Laravel, Vue 3, arquitectura de sistemas
+- 📍 Cochabamba, Bolivia
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:8E2DE2&height=3&section=header" width="100%"/>
 
@@ -64,9 +65,11 @@ Desarrollador Full Stack enfocado en construir sistemas de gestión con **Larave
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/IsaacPH2005/IsaacPH2005/output/github-contribution-grid-snake.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/IsaacPH2005/IsaacPH2005/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:8E2DE2&height=3&section=header" width="100%"/>
 
 ## 🔗 Conecta conmigo
 
@@ -74,6 +77,10 @@ Desarrollador Full Stack enfocado en construir sistemas de gestión con **Larave
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsaacPH2005)
+[![Twitter](https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white)](TU_LINK_TWITTER)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](TU_LINK_INSTAGRAM)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white)](TU_LINK_PORTAFOLIO)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO@gmail.com)
 
 </div>
 
