@@ -1,23 +1,24 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Isaac+%F0%9F%91%8B;Full+Stack+Developer;Laravel+%2B+Vue+%2B+React+Native" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=200&section=header&text=Isaac%20Parisaca&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%2B%20Vue%20%2B%20React%20Native&descAlignY=55&descSize=18" width="100%"/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Construyendo+SIGEAF+%F0%9F%8F%A6;Laravel+12+%2B+Vue+3;Siempre+aprendiendo+%F0%9F%9A%80" alt="Typing SVG" />
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=IsaacPH2005&color=2E9EF7&style=flat)
-![Followers](https://img.shields.io/github/followers/IsaacPH2005?label=Followers&style=flat&color=2E9EF7)
+![Profile Views](https://komarev.com/ghpvc/?username=IsaacPH2005&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/IsaacPH2005?label=FOLLOWERS&style=for-the-badge&color=8E2DE2)
 
 </div>
 
 ## 🚀 Sobre mí
 
-Desarrollador Full Stack enfocado en construir sistemas de gestión con **Laravel** y **Vue 3**. Actualmente desarrollo **SIGEAF**, un sistema de gestión documental y RRHH para una cooperativa de ahorro y crédito.
+Desarrollador Full Stack enfocado en construir sistemas de gestión con **Laravel** y **Vue 3**.
 
-- 🔭 Trabajando en: **SIGEAF** (Laravel 12 + Vue 3)
+- 🔭 Trabajando en: **SIGEAF** — sistema de gestión documental y RRHH para cooperativa
 - 📱 También en: **EcoHeroes** (Expo / React Native)
 - 🌱 Explorando: minería de criptomonedas y hardware PC
+- 💬 Pregúntame sobre: Laravel, Vue 3, arquitectura de sistemas
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:8E2DE2&height=3&section=header" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -34,26 +35,32 @@ Desarrollador Full Stack enfocado en construir sistemas de gestión con **Larave
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:8E2DE2&height=3&section=header" width="100%"/>
+
 ## 📌 Proyectos destacados
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| 🏦 **SIGEAF** | Sistema de gestión documental y RRHH para cooperativa | Laravel 12, Vue 3 |
+| 🏦 **SIGEAF** | Gestión documental y RRHH para cooperativa | Laravel 12, Vue 3 |
 | 🌱 **EcoHeroes** | App móvil multiplataforma | Expo, React Native |
 | 💼 **Sistema de Ventas** | Gestión de ventas | HTML, JS |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:8E2DE2&height=3&section=header" width="100%"/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IsaacPH2005&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=IsaacPH2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacPH2005&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacPH2005&theme=tokyonight&hide_border=true" width="60%" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IsaacPH2005&theme=react-dark&hide_border=true" width="100%"/>
+
 </div>
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -70,7 +77,4 @@ Desarrollador Full Stack enfocado en construir sistemas de gestión con **Larave
 
 </div>
 
----
-<div align="center">
-<i>⭐️ From <a href="https://github.com/IsaacPH2005">IsaacPH2005</a></i>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=100&section=footer" width="100%"/>
